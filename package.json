@@ -1,0 +1,16 @@
+{
+  "name": "losangeleslore-fullstyled",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "stripe": "^18.2.1"
+  }
+}
