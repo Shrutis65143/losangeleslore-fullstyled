@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 import { useEffect } from 'react';
-import ticketStore from '@/lib/ticketStore';
+import ticketStore from '../lib/ticketStore';
 
 export default function RaffleSuccess() {
   const router = useRouter();
